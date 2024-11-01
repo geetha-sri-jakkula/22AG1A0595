@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: auto;
+    background-color: aliceblue;
+    box-sizing: border-box;
+}
+.login{
+    margin: 10px;
+    padding: auto;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.form{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.input-form{
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
